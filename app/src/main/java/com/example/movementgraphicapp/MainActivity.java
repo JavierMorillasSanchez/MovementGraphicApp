@@ -128,8 +128,4 @@ public class MainActivity extends AppCompatActivity {
         mSensorManager.unregisterListener(sensorEventListener);
     }
 
-
-
-
-
 }
